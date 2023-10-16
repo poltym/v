@@ -1,0 +1,42 @@
+.mainh1{
+	text-align: center;
+	padding: 10px;
+
+    
+}
+.mar{
+	margin: 10px auto;
+
+}
+.modalrow{
+
+	min-height: 100px;
+
+}
+.modal-content{
+	margin: 20% auto 5%;
+	width: 80%;
+	background: #f9f9f9;
+	
+
+}
+.modal-img{
+	margin: 1% auto 1%;
+	width: 80%;
+	
+
+}
+.openModalButton{
+	
+	width: 200px;
+	height: 40px;
+    color: #fff;
+
+}
+.uploadedImage{
+
+	width: 100%;	
+	max-width: 500px;
+	text-align: center;
+
+}
